@@ -1,0 +1,8 @@
+#---
+#applications:
+#- name: bodhaApi
+#  memory: 1G
+#  instances: 1
+#  services:
+#    - MySql_Prod
+
